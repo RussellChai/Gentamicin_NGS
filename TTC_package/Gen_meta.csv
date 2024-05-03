@@ -1,0 +1,10 @@
+sample	3end_dir	frag_dir	drug	genotype	time	TPM_path	lib_name	depth
+Tet_T0	./tet_timepoint04_3end/subsampled_depth_end_enrichment_4500000/lib5/	./tet_timepoint04_fragment/depth_end_enrichment/lib5/	Tet	WT	0	./tet_timepoint04_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib5	4500000
+Gen_T0	./gen_timepoint03_3end/subsampled_depth_end_enrichment_4500000/lib5/	./gen_timepoint03_fragment/depth_end_enrichment/lib5/	Gen	WT	0	./gen_timepoint03_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib5	4500000
+Gen_T1	./gen_timepoint03_3end/subsampled_depth_end_enrichment_4500000/lib6/	./gen_timepoint03_fragment/depth_end_enrichment/lib6/	Gen	WT	6	./gen_timepoint03_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib6	4500000
+Gen_T2	./gen_timepoint03_3end/subsampled_depth_end_enrichment_4500000/lib7/	./gen_timepoint03_fragment/depth_end_enrichment/lib7/	Gen	WT	13	./gen_timepoint03_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib7	4500000
+Gen_T3	./gen_timepoint03_3end/subsampled_depth_end_enrichment_4500000/lib8/	./gen_timepoint03_fragment/depth_end_enrichment/lib8/	Gen	WT	20	./gen_timepoint03_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib8	4500000
+Gen_T4	./gen_timepoint47_3end/subsampled_depth_end_enrichment_4500000/lib5/	./gen_timepoint47_fragment/depth_end_enrichment/lib5/	Gen	WT	38	./gen_timepoint47_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib5	4500000
+Gen_T5	./gen_timepoint47_3end/subsampled_depth_end_enrichment_4500000/lib6/	./gen_timepoint47_fragment/depth_end_enrichment/lib6/	Gen	WT	58	./gen_timepoint47_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib6	4500000
+Gen_T6	./gen_timepoint47_3end/subsampled_depth_end_enrichment_4500000/lib7/	./gen_timepoint47_fragment/depth_end_enrichment/lib7/	Gen	WT	74	./gen_timepoint47_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib7	4500000
+Gen_T7	./gen_timepoint47_3end/subsampled_depth_end_enrichment_4500000/lib8/	./gen_timepoint47_fragment/depth_end_enrichment/lib8/	Gen	WT	108	./gen_timepoint47_fragment/rawcounts_tpm/TPM_rm_ncRNA.csv	lib8	4500000

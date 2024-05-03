@@ -1,0 +1,9 @@
+spikes_end_CPM_thr	1
+spikes_enrichment_thr	10
+primary_end_CPM_thr	1
+primary_enrichment_thr	20
+primary_dis_thr	100
+gene_CPM_thr	20
+gene_TPM_thr	20
+TPM_average	5
+TPM_max	10
